@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ssrApp2/static/css/main.fbe7bb74.css",
+    "main.js": "/ssrApp2/static/js/main.40b8842d.js",
+    "static/js/787.cda612ba.chunk.js": "/ssrApp2/static/js/787.cda612ba.chunk.js",
+    "index.html": "/ssrApp2/index.html",
+    "main.fbe7bb74.css.map": "/ssrApp2/static/css/main.fbe7bb74.css.map",
+    "main.40b8842d.js.map": "/ssrApp2/static/js/main.40b8842d.js.map",
+    "787.cda612ba.chunk.js.map": "/ssrApp2/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe7bb74.css",
+    "static/js/main.40b8842d.js"
+  ]
+}
